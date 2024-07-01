@@ -121,5 +121,3 @@ function displayData(data) {
 }
 
 document.getElementById('buscar').addEventListener('click', consultarCotizacion);
-
-
